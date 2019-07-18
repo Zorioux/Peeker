@@ -1,0 +1,6 @@
+name: Peeker
+version: 1.0-SNAPSHOT
+main: mythicmc.zorioux.Peeker
+commands:
+  peeker:
+    description: peeks :3
